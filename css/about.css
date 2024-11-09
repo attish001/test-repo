@@ -9,3 +9,12 @@ body{
     background-position: center;
     background-size: cover;
 }
+h2{
+  text-align: center;
+  border-style: dashed;
+}
+.fa-square-instagram{
+  font-size: 35px;
+  color: #cd486b;
+  padding-left: 537px;
+}
