@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-image: url(/images/gaming.avif);
+    background-image: url(images/gaming.avif);
 }
 .header img:hover{
     cursor: pointer;
