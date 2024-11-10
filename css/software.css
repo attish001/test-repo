@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    color: darkorchid;
+    background-color: black;
+    
+}
+body{
+    background-image: url(images/software.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.div1 a{
+margin: 100px;
+}
