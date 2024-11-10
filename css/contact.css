@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/contact.jpg);
+}
+h1{
+    color: coral;
+    text-align: center;
+    font-size: 100px;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    font-size: 15px;
+}
