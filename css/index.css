@@ -28,3 +28,6 @@ body{
 .nav li{
     float: left;
 }
+body{
+    background-image: url(images/pexels-felixmittermeier-956999.jpg);
+}
